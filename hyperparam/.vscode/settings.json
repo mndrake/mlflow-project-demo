@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/Users/dave.carlson/.pyenv/versions/miniconda-latest/envs/hyperparam_example/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
